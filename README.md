@@ -4,7 +4,7 @@ This repository contains materials for Rick Gilmore's guest lecture in IST 597.0
 
 ## Suggested readings
 
-Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, Retrieved from https://doi.org/10.1177/2515245917746500.
+Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science*, Retrieved from https://doi.org/10.1177/2515245917746500.
 
 Gilmore, R.O. & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-017-0128.
 
