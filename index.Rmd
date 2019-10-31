@@ -248,6 +248,17 @@ knitr::include_graphics("img/gilmore-practical-solutions.jpg")
 
 # Reproducible workflows
 
+## FAIR data principles
+
+Data should be...
+
+- **F**indable
+- **A**ccessible
+- **I**nteroperable
+- **R**eusable
+
+[Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18)
+
 ---
 
 - Data in interoperable formats (.txt or .csv)
