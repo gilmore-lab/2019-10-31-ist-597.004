@@ -1,5 +1,6 @@
 ---
 title: "An open science of human health & behavior"
+subtitle: "IST 597.004 Fall 2019"
 output: 
   revealjs::revealjs_presentation:
     css: styles.css
@@ -24,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 ```
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/NSF_Logo.PNG" height=150px>
-<img src="https://science.nichd.nih.gov/confluence/download/attachments/34472103/NICHD-vertical-2-color.png?version=1&modificationDate=1477410070000&api=v2" height=150px>
+<img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/ex89p5pm1bvck2ow3vwd" height=150px>
 </br>
 <img src="https://sloan.org/storage/app/media/Logos/Sloan-Logo-stacked-black-web.png" height=150px>
 <img src="http://newsroom.unl.edu/announce/files/file77330.jpg" height=150px/>
